@@ -1,0 +1,11 @@
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\bin\Debug\WinAppStarPoligon.exe.config
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\bin\Debug\WinAppStarPoligon.exe
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\bin\Debug\WinAppStarPoligon.pdb
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\obj\Debug\WinAppStarPoligon.csproj.AssemblyReference.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\obj\Debug\WinAppStarPoligon.FrmMain.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\obj\Debug\WinAppStarPoligon.Properties.Resources.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\obj\Debug\WinAppStarPoligon.csproj.GenerateResource.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\obj\Debug\WinAppStarPoligon.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\obj\Debug\WinAppStarPoligon.exe
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\obj\Debug\WinAppStarPoligon.pdb
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\Tarea 1 Primer Parcial\WinAppStarPoligon\WinAppStarPoligon\obj\Debug\WinAppStarPoligon.Resource1.resources
