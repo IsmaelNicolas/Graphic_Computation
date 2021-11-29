@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace WinAppStarPoligon
 {
     public partial class FrmMain : Form
@@ -24,7 +25,8 @@ namespace WinAppStarPoligon
 
         private void btn_graph_Click(object sender, EventArgs e)
         {
-
+            CStarPoligon obj_poligon = new CStarPoligon();
+            obj_poligon.plot_figure(this.pic_canvas,this.label1);
         }
     }
 }

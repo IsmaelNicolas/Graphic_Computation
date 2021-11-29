@@ -1,0 +1,9 @@
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\bin\Debug\WinAppRectangle.exe.config
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\bin\Debug\WinAppRectangle.exe
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\bin\Debug\WinAppRectangle.pdb
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\obj\Debug\WinAppRectangle.csprojAssemblyReference.cache
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\obj\Debug\WinAppRectangle.frmRectangle.resources
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\obj\Debug\WinAppRectangle.Properties.Resources.resources
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\obj\Debug\WinAppRectangle.csproj.GenerateResource.cache
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\obj\Debug\WinAppRectangle.exe
+C:\Users\cxvil\source\repos\WinAppRectangle\WinAppRectangle\obj\Debug\WinAppRectangle.pdb

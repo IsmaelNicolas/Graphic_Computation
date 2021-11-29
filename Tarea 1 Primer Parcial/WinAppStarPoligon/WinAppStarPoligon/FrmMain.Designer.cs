@@ -38,9 +38,14 @@ namespace WinAppStarPoligon
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lbl_model = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.pic_canvas = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.grp_controls.SuspendLayout();
+            this.panel1.SuspendLayout();
             this.grp_model.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_canvas)).BeginInit();
             this.SuspendLayout();
             // 
             // grp_controls
@@ -82,6 +87,7 @@ namespace WinAppStarPoligon
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.pic_canvas);
             this.panel1.Location = new System.Drawing.Point(269, 12);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(500, 400);
@@ -120,18 +126,36 @@ namespace WinAppStarPoligon
             // panel2
             // 
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.label1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(781, 421);
+            this.panel2.Size = new System.Drawing.Size(984, 421);
             this.panel2.TabIndex = 3;
+            // 
+            // pic_canvas
+            // 
+            this.pic_canvas.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pic_canvas.Location = new System.Drawing.Point(0, 0);
+            this.pic_canvas.Name = "pic_canvas";
+            this.pic_canvas.Size = new System.Drawing.Size(500, 400);
+            this.pic_canvas.TabIndex = 0;
+            this.pic_canvas.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(774, 11);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 13);
+            this.label1.TabIndex = 0;
             // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(781, 421);
+            this.ClientSize = new System.Drawing.Size(984, 421);
             this.Controls.Add(this.grp_model);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.grp_controls);
@@ -141,9 +165,13 @@ namespace WinAppStarPoligon
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Star Poligon";
             this.grp_controls.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
             this.grp_model.ResumeLayout(false);
             this.grp_model.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_canvas)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -158,6 +186,8 @@ namespace WinAppStarPoligon
         private System.Windows.Forms.Label lbl_model;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.PictureBox pic_canvas;
+        private System.Windows.Forms.Label label1;
     }
 }
 
