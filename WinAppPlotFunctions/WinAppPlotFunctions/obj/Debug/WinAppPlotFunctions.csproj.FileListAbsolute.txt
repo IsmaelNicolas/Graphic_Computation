@@ -1,0 +1,90 @@
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe.config
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.pdb
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csprojResolveAssemblyReference.cache
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmMenu.resources
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.Properties.Resources.resources
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.GenerateResource.Cache
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.exe
+c:\users\labs-decc\documents\visual studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.pdb
+C:\Users\Labs-DECC\Documents\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmCuadraticFunction.resources
+C:\Users\Labs-DECC\Documents\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRoseFourPetals.resources
+C:\Users\Labs-DECC\Documents\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmSinFunction.resources
+C:\Users\Labs-DECC\Documents\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRationalFunction.resources
+C:\Users\Labs-DECC\Documents\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmParametricFunction.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe.config
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.exe
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.pdb
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.pdb
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csprojResolveAssemblyReference.cache
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmCuadraticFunction.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmMenu.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmParametricFunction.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRationalFunction.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRoseFourPetals.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmSinFunction.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.Properties.Resources.resources
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.GenerateResource.Cache
+D:\Respaldos 2\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe.config
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.pdb
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmCuadraticFunction.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmMenu.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmParametricFunction.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRationalFunction.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRoseFourPetals.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmSinFunction.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.exe
+C:\Users\usuario\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.pdb
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe.config
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.pdb
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmCuadraticFunction.resources
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmMenu.resources
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmParametricFunction.resources
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRationalFunction.resources
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRoseFourPetals.resources
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmSinFunction.resources
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.Properties.Resources.resources
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.exe
+C:\Users\PC\Desktop\Abril 2019\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe.config
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csprojAssemblyReference.cache
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmCuadraticFunction.resources
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmMenu.resources
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmParametricFunction.resources
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRationalFunction.resources
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRoseFourPetals.resources
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmSinFunction.resources
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.exe
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.pdb
+C:\Users\cxvil\OneDrive\Escritorio\Abril 2020\Visual Studio 2015\Projects\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmCircle.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe.config
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.exe
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\bin\Debug\WinAppPlotFunctions.pdb
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.AssemblyReference.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmCircle.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmCuadraticFunction.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmMenu.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmParametricFunction.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRationalFunction.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmRoseFourPetals.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.frmSinFunction.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.Properties.Resources.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.GenerateResource.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.exe
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppPlotFunctions\WinAppPlotFunctions\obj\Debug\WinAppPlotFunctions.pdb

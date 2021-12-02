@@ -1,0 +1,10 @@
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\bin\Debug\WinAppTrasedentalFuntion.exe.config
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\bin\Debug\WinAppTrasedentalFuntion.exe
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\bin\Debug\WinAppTrasedentalFuntion.pdb
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\obj\Debug\WinAppTrasedentalFuntion.csproj.AssemblyReference.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\obj\Debug\WinAppTrasedentalFuntion.frm_main.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\obj\Debug\WinAppTrasedentalFuntion.Properties.Resources.resources
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\obj\Debug\WinAppTrasedentalFuntion.csproj.GenerateResource.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\obj\Debug\WinAppTrasedentalFuntion.csproj.CoreCompileInputs.cache
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\obj\Debug\WinAppTrasedentalFuntion.exe
+C:\Users\ismae\OneDrive\Documentos\Computacion Grafica\WinAppTrasedentalFuntion\WinAppTrasedentalFuntion\obj\Debug\WinAppTrasedentalFuntion.pdb
