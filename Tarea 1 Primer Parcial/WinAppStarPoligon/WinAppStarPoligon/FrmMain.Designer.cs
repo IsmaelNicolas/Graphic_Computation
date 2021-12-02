@@ -34,25 +34,24 @@ namespace WinAppStarPoligon
             this.btn_graph = new System.Windows.Forms.Button();
             this.btn_exit = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pic_canvas = new System.Windows.Forms.PictureBox();
             this.grp_model = new System.Windows.Forms.GroupBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lbl_model = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.pic_canvas = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.grp_controls.SuspendLayout();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_canvas)).BeginInit();
             this.grp_model.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_canvas)).BeginInit();
             this.SuspendLayout();
             // 
             // grp_controls
             // 
-            this.grp_controls.Controls.Add(this.btn_graph);
             this.grp_controls.Controls.Add(this.btn_exit);
-            this.grp_controls.Location = new System.Drawing.Point(12, 12);
+            this.grp_controls.Controls.Add(this.btn_graph);
+            this.grp_controls.Location = new System.Drawing.Point(11, 11);
             this.grp_controls.Name = "grp_controls";
             this.grp_controls.Size = new System.Drawing.Size(251, 83);
             this.grp_controls.TabIndex = 0;
@@ -74,30 +73,44 @@ namespace WinAppStarPoligon
             // 
             // btn_exit
             // 
+            this.btn_exit.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_exit.BackColor = System.Drawing.Color.LightCoral;
             this.btn_exit.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btn_exit.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_exit.Location = new System.Drawing.Point(40, 19);
+            this.btn_exit.Location = new System.Drawing.Point(27, 19);
+            this.btn_exit.Margin = new System.Windows.Forms.Padding(0);
             this.btn_exit.Name = "btn_exit";
-            this.btn_exit.Size = new System.Drawing.Size(75, 41);
+            this.btn_exit.Size = new System.Drawing.Size(77, 41);
             this.btn_exit.TabIndex = 1;
             this.btn_exit.Text = "Exit";
+            this.btn_exit.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.btn_exit.UseVisualStyleBackColor = false;
             this.btn_exit.Click += new System.EventHandler(this.btn_exit_Click);
             // 
             // panel1
             // 
             this.panel1.Controls.Add(this.pic_canvas);
-            this.panel1.Location = new System.Drawing.Point(269, 12);
+            this.panel1.Location = new System.Drawing.Point(263, 11);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(500, 400);
             this.panel1.TabIndex = 1;
+            // 
+            // pic_canvas
+            // 
+            this.pic_canvas.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pic_canvas.Location = new System.Drawing.Point(0, 0);
+            this.pic_canvas.Name = "pic_canvas";
+            this.pic_canvas.Size = new System.Drawing.Size(500, 400);
+            this.pic_canvas.TabIndex = 0;
+            this.pic_canvas.TabStop = false;
             // 
             // grp_model
             // 
             this.grp_model.Controls.Add(this.pictureBox1);
             this.grp_model.Controls.Add(this.lbl_model);
-            this.grp_model.Location = new System.Drawing.Point(12, 101);
+            this.grp_model.Location = new System.Drawing.Point(11, 100);
             this.grp_model.Name = "grp_model";
             this.grp_model.Size = new System.Drawing.Size(251, 311);
             this.grp_model.TabIndex = 2;
@@ -126,39 +139,21 @@ namespace WinAppStarPoligon
             // panel2
             // 
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel2.Controls.Add(this.label1);
+            this.panel2.Controls.Add(this.grp_controls);
+            this.panel2.Controls.Add(this.panel1);
+            this.panel2.Controls.Add(this.grp_model);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(984, 421);
+            this.panel2.Size = new System.Drawing.Size(776, 417);
             this.panel2.TabIndex = 3;
-            // 
-            // pic_canvas
-            // 
-            this.pic_canvas.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pic_canvas.Location = new System.Drawing.Point(0, 0);
-            this.pic_canvas.Name = "pic_canvas";
-            this.pic_canvas.Size = new System.Drawing.Size(500, 400);
-            this.pic_canvas.TabIndex = 0;
-            this.pic_canvas.TabStop = false;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(774, 11);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 13);
-            this.label1.TabIndex = 0;
             // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(984, 421);
-            this.Controls.Add(this.grp_model);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.grp_controls);
+            this.ClientSize = new System.Drawing.Size(776, 417);
             this.Controls.Add(this.panel2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmMain";
@@ -166,12 +161,11 @@ namespace WinAppStarPoligon
             this.Text = "Star Poligon";
             this.grp_controls.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pic_canvas)).EndInit();
             this.grp_model.ResumeLayout(false);
             this.grp_model.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel2.ResumeLayout(false);
-            this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_canvas)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -187,7 +181,6 @@ namespace WinAppStarPoligon
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.PictureBox pic_canvas;
-        private System.Windows.Forms.Label label1;
     }
 }
 

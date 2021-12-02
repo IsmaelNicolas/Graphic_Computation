@@ -26,7 +26,7 @@ namespace WinAppStarPoligon
         private void btn_graph_Click(object sender, EventArgs e)
         {
             CStarPoligon obj_poligon = new CStarPoligon();
-            obj_poligon.plot_figure(this.pic_canvas,this.label1);
+            obj_poligon.plot_figure(this.pic_canvas);
         }
     }
 }
